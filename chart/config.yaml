@@ -1,0 +1,44 @@
+name: "Bitmap Chart Server"
+version: "1.0.0"
+slug: "bitmap_chart_server"
+description: "This Home Assistant Add-on is an Bitmap-Server providing a chart of the history data of the last 24 hours of an entity."
+startup: "services"
+boot: "auto"
+ports:
+  "5000/tcp": 5000
+ports_description:
+  "5000/tcp": "Web interface (public access)"
+webui: "http://[HOST]:[PORT:5000]/chart"
+hassio_api: true
+homeassistant_api: true
+ingress: true
+ingress_port: 5000
+ingress_entry: "chart"
+ingress_stream: true
+arch:
+  - armv7
+  - armhf
+  - amd64
+  - i386
+  - aarch64
+host_network: true
+map:
+  - config
+init: false
+options:
+  default_entity_id: "place here your entity id for a default chart"
+  picture_size_x: 1024
+  picture_size_y: 768
+  background_color: "#FFFFFF"
+  chart_background_color: "#FFFFFF"
+  chart_line_color: "#00FF00"
+schema:
+  default_entity_id: "str"
+  picture_size_x: "int(1,4096)"
+  picture_size_y: "int(1,4096)"
+  background_color: "str"
+  chart_background_color: "str"
+  chart_line_color: "str"
+environment:
+  FLASK_ENV: "production"
+auth_api: true

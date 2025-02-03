@@ -20,12 +20,6 @@ This Home Assistant Add-on provides a simple way to generate bitmap charts from 
 
 Detailed documentation can be found in the [DOCS.md](chart/DOCS.md) file.
 
-## Support
-
-Got questions?
-
-You can open an issue here: [Open an issue](https://github.com/wschneid/bitmap-chart-server/issues)
-
 ## Contributing
 
 This is an active open-source project. Feel free to use it, fork it, and contribute to it.

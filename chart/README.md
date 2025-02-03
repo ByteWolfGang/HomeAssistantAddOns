@@ -22,15 +22,10 @@ This Home Assistant Add-on is an Image-Server providing a chart of the history d
 
 1. Navigate to the Home Assistant Add-on Store
 2. Click the menu icon (⋮) in the top right corner and select "Repositories"
-3. Add this repository URL: `<your-repository-url>`
+3. Add this repository URL: `https://github.com/ByteWolfGang/HomeAssistantAddOns`
 4. The add-on should now appear in the add-on store
 5. Click install and wait for the installation to complete
 
-## Support
-
-Got questions?
-
-You can open an issue here: [<your-repository-url>/issues]
 
 [release-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
 [release]: #

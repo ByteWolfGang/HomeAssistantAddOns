@@ -10,7 +10,7 @@ This Home Assistant Add-on is an Bitmap-Server providing a chart of the history 
 
 The main goal is to give special devices (Garmin Watches, ESP32-Projects, E-Ink Displays, IP-Telephones, ...) the ability to display charts as simple images.
 
-![image](https://github.com/ByteWolfGang/HomeAssistantAddOns/blob/main/chart/doc/chart.png) ![image](https://github.com/ByteWolfGang/HomeAssistantAddOns/blob/main/chart/doc/chart2.png)
+![image](https://github.com/ByteWolfGang/HomeAssistantAddOns/raw/main/chart/doc/chart.png) ![image](https://github.com/ByteWolfGang/HomeAssistantAddOns/raw/main/chart/doc/chart2.png)
 
 ## Features
 

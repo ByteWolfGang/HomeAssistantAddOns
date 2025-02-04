@@ -35,4 +35,4 @@ The main goal is to give special devices (Garmin Watches, E-Ink Displays, SIP-Te
 [release-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
 [release]: #
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg 
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg 

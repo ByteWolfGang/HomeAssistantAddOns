@@ -10,6 +10,8 @@ A Home Assistant add-on that provides a chart visualization for sensor history d
 
 This Home Assistant Add-on is an Image-Server providing a chart of the history data of an entity. It allows you to visualize your sensor data in a customizable chart format, accessible through a web interface.
 
+![image](doc/chart.png)
+
 ## Features
 
 - Web-based chart visualization

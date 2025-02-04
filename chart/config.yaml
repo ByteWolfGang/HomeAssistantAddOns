@@ -1,7 +1,7 @@
 name: "Bitmap Chart Server"
 version: "1.0.0"
 slug: "bitmap_chart_server"
-description: "This Home Assistant Add-on is an Bitmap-Server providing a chart of the history data of the last 24 hours of an entity."
+description: "This Home Assistant Add-on is a Bitmap-Server providing a chart of the history data of the last 24 hours of an entity."
 startup: "services"
 boot: "auto"
 ports:

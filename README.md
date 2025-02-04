@@ -12,7 +12,7 @@ This Home Assistant Add-on provides a simple way to generate bitmap charts from 
 ![image](chart/doc/chart2.png)
 ## Installation
 
-1. Click here to open your Home Assistant instance and show the add-on repository: [![Open your Home Assistant instance and show the add add-on repository.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/your-username/bitmap-chart-server)
+1. Click here to open your Home Assistant instance and show the add-on repository: [![Open your Home Assistant instance and show the add add-on repository.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/ByteWolfGang/HomeAssistantAddOns)
 
 2. Install the "Bitmap Chart Server" add-on.
 3. Configure the add-on with your desired settings.

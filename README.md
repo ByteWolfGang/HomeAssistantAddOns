@@ -8,9 +8,7 @@ Generate bitmap charts from your Home Assistant sensor data.
 
 This Home Assistant Add-on provides a simple way to generate bitmap charts from any sensor entity in your Home Assistant instance. It shows the last 24 hours of data in a customizable chart format.
 
-Examples                      |   
-:----------------------------:|:------------------------------:
-![image](chart/doc/chart.png) | ![image](chart/doc/chart2.png)
+![image](chart/doc/chart.png)![image](chart/doc/chart2.png)
 
 ## Installation
 

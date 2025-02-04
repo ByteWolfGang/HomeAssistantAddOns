@@ -1,6 +1,6 @@
 # Home Assistant Add-on: Bitmap Chart Server
 
-[![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
+![Project Maintenance][maintenance-shield]
 
 Generate bitmap charts from your Home Assistant sensor data.
 
@@ -10,6 +10,7 @@ This Home Assistant Add-on provides a simple way to generate bitmap charts from 
 
 ![image](chart/doc/chart.png)
 ![image](chart/doc/chart2.png)
+
 ## Installation
 
 1. Click here to open your Home Assistant instance and show the add-on repository: [![Open your Home Assistant instance and show the add add-on repository.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/ByteWolfGang/HomeAssistantAddOns)
@@ -34,7 +35,4 @@ This is an active open-source project. Feel free to use it, fork it, and contrib
 
 MIT License - See [LICENSE](LICENSE) for more information.
 
-[release-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
-[release]: https://github.com/your-username/bitmap-chart-server/releases/tag/v1.0.0
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg 

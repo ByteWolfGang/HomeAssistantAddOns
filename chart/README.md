@@ -8,10 +8,9 @@ A Home Assistant add-on that provides a chart visualization for sensor history d
 
 This Home Assistant Add-on is an Bitmap-Server providing a chart of the history data of an entity. It allows you to visualize your sensor data in a customizable chart format, accessible through a web interface.
 
-The main goal is to give special devices (Garmin Watches, ESP32-Projects, E-Ink Displays, SIP-Telephones, ...) the ability to display charts as simple images.
+The main goal is to give special devices (Garmin Watches, ESP32-Projects, E-Ink Displays, IP-Telephones, ...) the ability to display charts as simple images.
 
-![image](doc/chart.png)
-![image](doc/chart2.png)
+![image](doc/chart.png) ![image](doc/chart2.png)
 
 ## Features
 

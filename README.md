@@ -28,7 +28,7 @@ This is an active open-source project. Feel free to use it, fork it, and contrib
 
 ## Authors & contributors
 
-- Wolfgang Schneiderhan <wolfgang@schneiderhan.com>
+- Wolfgang Schneiderhan
 
 ## License
 
